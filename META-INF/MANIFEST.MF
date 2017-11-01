@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Executable: smartapps/davidsalvadorpt/outsystems-connector-smartapp.src
+
+Name: outsystems-connector-smartapp.groovy
+SHA1-Digest: ca694bfdfaa0c21302e4c96e81137cf562746b33
